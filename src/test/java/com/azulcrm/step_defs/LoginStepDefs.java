@@ -28,7 +28,6 @@ public class LoginStepDefs {
     public void user_should_be_able_to_see_dashboard() {
         String title = Driver.get().getTitle();
         Assert.assertTrue("Verify that title is true",title.contains("Portal"));
-
     }
 
 }
