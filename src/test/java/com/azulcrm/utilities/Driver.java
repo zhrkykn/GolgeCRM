@@ -1,4 +1,4 @@
-package com.fidexio.utilities;
+package com.azulcrm.utilities;
 
 
 import io.github.bonigarcia.wdm.WebDriverManager;

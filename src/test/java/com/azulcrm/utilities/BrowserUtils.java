@@ -1,4 +1,4 @@
-package com.fidexio.utilities;
+package com.azulcrm.utilities;
 
 import org.junit.Assert;
 import org.openqa.selenium.*;

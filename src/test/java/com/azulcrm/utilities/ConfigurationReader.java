@@ -1,4 +1,4 @@
-package com.fidexio.utilities;
+package com.azulcrm.utilities;
 
 import java.io.FileInputStream;
 import java.util.Properties;
